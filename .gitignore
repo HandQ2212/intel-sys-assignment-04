@@ -1,0 +1,22 @@
+# OS & Environment
+.DS_Store
+__pycache__/
+*.pyc
+
+# Heavy Datasets
+dataset/
+
+# Python scripts
+*.py
+*.txt
+
+# LaTeX & PDF files
+*.tex
+*.pdf
+*.aux
+*.log
+*.lof
+*.lot
+*.out
+*.toc
+*.synctex.gz
